@@ -1,3 +1,5 @@
+import Rect from './utils/rect';
+
 export default function enccon() {
     const C = 0.45;
 
